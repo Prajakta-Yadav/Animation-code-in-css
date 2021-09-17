@@ -4,7 +4,7 @@ Wishing  you  all  engineers in happy engineers day ... wishing with create gree
 <!doctype html>
 <html>
  <head>
-<style >
+<style>
 @keyframes box{
   0%{
     width: 300px;
